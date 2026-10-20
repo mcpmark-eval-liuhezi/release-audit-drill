@@ -1,0 +1,3 @@
+# Pinned dependencies for the pre-merge security checklist dry run.
+flask==3.1.0
+requests==2.32.3
